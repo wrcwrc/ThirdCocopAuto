@@ -1,0 +1,6 @@
+framework module Pods_HaveCocopProjectTest {
+  umbrella header "Pods-HaveCocopProjectTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
